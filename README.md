@@ -8,13 +8,6 @@ The project combines **Aspect-Based Sentiment Analysis (ABSA)**, **Fine-Tuned BE
 
 ---
 
-## Live Application
-
-### [Open AutoInsight AI — Live Project](LIVE_PROJECT_LINK)
-
-The deployed application allows users to enter automotive customer reviews and obtain aspect-level sentiment predictions through an interactive web interface.
-
----
 
 ## Project Overview
 

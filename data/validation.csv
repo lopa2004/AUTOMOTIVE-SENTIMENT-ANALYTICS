@@ -1,0 +1,33 @@
+review,aspect,sentiment,clean_review,bert_text,label
+The model has a navigation display.,Infotainment,Neutral,the model has a navigation display,Infotainment: the model has a navigation display,1
+Phone connectivity is frustrating.,Infotainment,Negative,phone connectivity is frustrating,Infotainment: phone connectivity is frustrating,0
+The car has a conventional exterior design.,Vehicle,Neutral,the car has a conventional exterior design,Vehicle: the car has a conventional exterior design,1
+The car has a stylish exterior design.,Vehicle,Positive,the car has a stylish exterior design,Vehicle: the car has a stylish exterior design,2
+The battery provides impressive range.,Battery,Positive,the battery provides impressive range,Battery: the battery provides impressive range,2
+The legroom is very comfortable.,Comfort,Positive,the legroom is very comfortable,Comfort: the legroom is very comfortable,2
+The car feels less refined than expected.,Vehicle,Negative,the car feels less refined than expected,Vehicle: the car feels less refined than expected,0
+The vehicle provides rear-seat headrests.,Comfort,Neutral,the vehicle provides rearseat headrests,Comfort: the vehicle provides rearseat headrests,1
+The vehicle comes with a four-cylinder engine.,Engine,Neutral,the vehicle comes with a fourcylinder engine,Engine: the vehicle comes with a fourcylinder engine,1
+The vehicle has a five-door body design.,Vehicle,Neutral,the vehicle has a fivedoor body design,Vehicle: the vehicle has a fivedoor body design,1
+The infotainment features are impressive.,Infotainment,Positive,the infotainment features are impressive,Infotainment: the infotainment features are impressive,2
+Fuel efficiency is disappointing.,Mileage,Negative,fuel efficiency is disappointing,Mileage: fuel efficiency is disappointing,0
+The touchscreen is responsive and clear.,Infotainment,Positive,the touchscreen is responsive and clear,Infotainment: the touchscreen is responsive and clear,2
+The workshop staff were rude.,Service,Negative,the workshop staff were rude,Service: the workshop staff were rude,0
+The vehicle provides excellent protection.,Safety,Positive,the vehicle provides excellent protection,Safety: the vehicle provides excellent protection,2
+Charging takes far too long.,Battery,Negative,charging takes far too long,Battery: charging takes far too long,0
+The battery capacity is 50 kWh.,Battery,Neutral,the battery capacity is 50 kwh,Battery: the battery capacity is 50 kwh,1
+The suspension feels too stiff.,Comfort,Negative,the suspension feels too stiff,Comfort: the suspension feels too stiff,0
+The vehicle has a standard market price.,Price,Neutral,the vehicle has a standard market price,Price: the vehicle has a standard market price,1
+The model comes with a lithium-ion battery.,Battery,Neutral,the model comes with a lithiumion battery,Battery: the model comes with a lithiumion battery,1
+The car displays the battery percentage.,Battery,Neutral,the car displays the battery percentage,Battery: the car displays the battery percentage,1
+The system connects to my phone quickly.,Infotainment,Positive,the system connects to my phone quickly,Infotainment: the system connects to my phone quickly,2
+The ride quality is excellent.,Comfort,Positive,the ride quality is excellent,Comfort: the ride quality is excellent,2
+The car is too expensive.,Price,Negative,the car is too expensive,Price: the car is too expensive,0
+The car has a touchscreen infotainment system.,Infotainment,Neutral,the car has a touchscreen infotainment system,Infotainment: the car has a touchscreen infotainment system,1
+The airbags provide good safety.,Safety,Positive,the airbags provide good safety,Safety: the airbags provide good safety,2
+The battery supports home charging.,Battery,Neutral,the battery supports home charging,Battery: the battery supports home charging,1
+The workshop staff were helpful.,Service,Positive,the workshop staff were helpful,Service: the workshop staff were helpful,2
+Fuel consumption is unnecessarily high.,Mileage,Negative,fuel consumption is unnecessarily high,Mileage: fuel consumption is unnecessarily high,0
+The vehicle has poor fuel economy.,Mileage,Negative,the vehicle has poor fuel economy,Mileage: the vehicle has poor fuel economy,0
+Charging performance is very good.,Battery,Positive,charging performance is very good,Battery: charging performance is very good,2
+The overall vehicle design is disappointing.,Vehicle,Negative,the overall vehicle design is disappointing,Vehicle: the overall vehicle design is disappointing,0

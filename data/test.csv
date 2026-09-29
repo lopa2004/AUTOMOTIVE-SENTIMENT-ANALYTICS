@@ -1,0 +1,34 @@
+review,aspect,sentiment,clean_review,bert_text,label
+The vehicle does not offer good value.,Price,Negative,the vehicle does not offer good value,Price: the vehicle does not offer good value,0
+The mileage depends on driving conditions.,Mileage,Neutral,the mileage depends on driving conditions,Mileage: the mileage depends on driving conditions,1
+The vehicle uses a turbocharged engine.,Engine,Neutral,the vehicle uses a turbocharged engine,Engine: the vehicle uses a turbocharged engine,1
+The speakers produce excellent sound.,Infotainment,Positive,the speakers produce excellent sound,Infotainment: the speakers produce excellent sound,2
+The vehicle is available in several body styles.,Vehicle,Neutral,the vehicle is available in several body styles,Vehicle: the vehicle is available in several body styles,1
+The vehicle lacks important safety features.,Safety,Negative,the vehicle lacks important safety features,Safety: the vehicle lacks important safety features,0
+The touchscreen is slow and unresponsive.,Infotainment,Negative,the touchscreen is slow and unresponsive,Infotainment: the touchscreen is slow and unresponsive,0
+The car is serviced every six months.,Service,Neutral,the car is serviced every six months,Service: the car is serviced every six months,1
+Maintenance service was quick and professional.,Service,Positive,maintenance service was quick and professional,Service: maintenance service was quick and professional,2
+The vehicle is highly fuel efficient.,Mileage,Positive,the vehicle is highly fuel efficient,Mileage: the vehicle is highly fuel efficient,2
+The vehicle has a practical and attractive body design.,Vehicle,Positive,the vehicle has a practical and attractive body design,Vehicle: the vehicle has a practical and attractive body design,2
+Customer service was responsive.,Service,Positive,customer service was responsive,Service: customer service was responsive,2
+Mileage is lower than expected.,Mileage,Negative,mileage is lower than expected,Mileage: mileage is lower than expected,0
+Engine performance is disappointing.,Engine,Negative,engine performance is disappointing,Engine: engine performance is disappointing,0
+The model is offered at different prices.,Price,Neutral,the model is offered at different prices,Price: the model is offered at different prices,1
+The infotainment system is easy to use.,Infotainment,Positive,the infotainment system is easy to use,Infotainment: the infotainment system is easy to use,2
+The car has fabric seats.,Comfort,Neutral,the car has fabric seats,Comfort: the car has fabric seats,1
+The car does not feel very safe.,Safety,Negative,the car does not feel very safe,Safety: the car does not feel very safe,0
+The price offers excellent value.,Price,Positive,the price offers excellent value,Price: the price offers excellent value,2
+The vehicle has a familiar design.,Vehicle,Neutral,the vehicle has a familiar design,Vehicle: the vehicle has a familiar design,1
+The car uses petrol for fuel.,Mileage,Neutral,the car uses petrol for fuel,Mileage: the car uses petrol for fuel,1
+The vehicle costs too much.,Price,Negative,the vehicle costs too much,Price: the vehicle costs too much,0
+The service experience was frustrating.,Service,Negative,the service experience was frustrating,Service: the service experience was frustrating,0
+The vehicle supports fast charging.,Battery,Neutral,the vehicle supports fast charging,Battery: the vehicle supports fast charging,1
+The mileage is excellent.,Mileage,Positive,the mileage is excellent,Mileage: the mileage is excellent,2
+The car delivers impressive mileage.,Mileage,Positive,the car delivers impressive mileage,Mileage: the car delivers impressive mileage,2
+The ride quality is poor.,Comfort,Negative,the ride quality is poor,Comfort: the ride quality is poor,0
+The service center was disappointing.,Service,Negative,the service center was disappointing,Service: the service center was disappointing,0
+The electric range is excellent.,Battery,Positive,the electric range is excellent,Battery: the electric range is excellent,2
+The car consumes too much fuel.,Mileage,Negative,the car consumes too much fuel,Mileage: the car consumes too much fuel,0
+The cabin includes front and rear seats.,Comfort,Neutral,the cabin includes front and rear seats,Comfort: the cabin includes front and rear seats,1
+The service interval is one year.,Service,Neutral,the service interval is one year,Service: the service interval is one year,1
+The cabin is spacious and comfortable.,Comfort,Positive,the cabin is spacious and comfortable,Comfort: the cabin is spacious and comfortable,2

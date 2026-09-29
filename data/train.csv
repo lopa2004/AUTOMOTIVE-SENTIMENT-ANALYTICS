@@ -1,0 +1,152 @@
+review,aspect,sentiment,clean_review,bert_text,label
+Maintenance took too long.,Service,Negative,maintenance took too long,Service: maintenance took too long,0
+The repair service was poorly handled.,Service,Negative,the repair service was poorly handled,Service: the repair service was poorly handled,0
+The car is not fuel efficient.,Mileage,Negative,the car is not fuel efficient,Mileage: the car is not fuel efficient,0
+The seats are very comfortable.,Comfort,Positive,the seats are very comfortable,Comfort: the seats are very comfortable,2
+The manufacturer lists several price options.,Price,Neutral,the manufacturer lists several price options,Price: the manufacturer lists several price options,1
+The vehicle is affordable for its features.,Price,Positive,the vehicle is affordable for its features,Price: the vehicle is affordable for its features,2
+The brakes feel weak.,Safety,Negative,the brakes feel weak,Safety: the brakes feel weak,0
+The car is priced at 15 lakh rupees.,Price,Neutral,the car is priced at 15 lakh rupees,Price: the car is priced at 15 lakh rupees,1
+The car is reasonably priced.,Price,Positive,the car is reasonably priced,Price: the car is reasonably priced,2
+Mileage is better than expected.,Mileage,Positive,mileage is better than expected,Mileage: mileage is better than expected,2
+The car has a standard cabin layout.,Comfort,Neutral,the car has a standard cabin layout,Comfort: the car has a standard cabin layout,1
+The model is offered with a diesel engine.,Engine,Neutral,the model is offered with a diesel engine,Engine: the model is offered with a diesel engine,1
+The car has strong safety performance.,Safety,Positive,the car has strong safety performance,Safety: the car has strong safety performance,2
+The audio quality is excellent.,Infotainment,Positive,the audio quality is excellent,Infotainment: the audio quality is excellent,2
+The car has a premium overall design.,Vehicle,Positive,the car has a premium overall design,Vehicle: the car has a premium overall design,2
+The battery lasts for a long time.,Battery,Positive,the battery lasts for a long time,Battery: the battery lasts for a long time,2
+The car is available with two engine options.,Engine,Neutral,the car is available with two engine options,Engine: the car is available with two engine options,1
+The display is bright and user friendly.,Infotainment,Positive,the display is bright and user friendly,Infotainment: the display is bright and user friendly,2
+Battery life is better than expected.,Battery,Positive,battery life is better than expected,Battery: battery life is better than expected,2
+The service team was very helpful.,Service,Positive,the service team was very helpful,Service: the service team was very helpful,2
+The exterior design makes the car look premium.,Vehicle,Positive,the exterior design makes the car look premium,Vehicle: the exterior design makes the car look premium,2
+The car uses a standard body structure.,Vehicle,Neutral,the car uses a standard body structure,Vehicle: the car uses a standard body structure,1
+The price is difficult to justify.,Price,Negative,the price is difficult to justify,Price: the price is difficult to justify,0
+The engine response is slow.,Engine,Negative,the engine response is slow,Engine: the engine response is slow,0
+The model includes adjustable front seats.,Comfort,Neutral,the model includes adjustable front seats,Comfort: the model includes adjustable front seats,1
+The manufacturer lists the mileage officially.,Mileage,Neutral,the manufacturer lists the mileage officially,Mileage: the manufacturer lists the mileage officially,1
+The vehicle feels stable and refined on the road.,Vehicle,Positive,the vehicle feels stable and refined on the road,Vehicle: the vehicle feels stable and refined on the road,2
+The model comes with a rear camera.,Safety,Neutral,the model comes with a rear camera,Safety: the model comes with a rear camera,1
+The vehicle feels poorly built.,Vehicle,Negative,the vehicle feels poorly built,Vehicle: the vehicle feels poorly built,0
+The vehicle includes several driver assistance features.,Safety,Neutral,the vehicle includes several driver assistance features,Safety: the vehicle includes several driver assistance features,1
+The engine feels responsive during driving.,Engine,Positive,the engine feels responsive during driving,Engine: the engine feels responsive during driving,2
+The electric range is poor.,Battery,Negative,the electric range is poor,Battery: the electric range is poor,0
+The car has electronic stability control.,Safety,Neutral,the car has electronic stability control,Safety: the car has electronic stability control,1
+The safety features are excellent.,Safety,Positive,the safety features are excellent,Safety: the safety features are excellent,2
+The braking response is reliable.,Safety,Positive,the braking response is reliable,Safety: the braking response is reliable,2
+The dealer provided poor support.,Service,Negative,the dealer provided poor support,Service: the dealer provided poor support,0
+The engine feels weak during acceleration.,Engine,Negative,the engine feels weak during acceleration,Engine: the engine feels weak during acceleration,0
+The car has impressive engine power.,Engine,Positive,the car has impressive engine power,Engine: the car has impressive engine power,2
+The vehicle is available in three price variants.,Price,Neutral,the vehicle is available in three price variants,Price: the vehicle is available in three price variants,1
+The engine displacement is 1.5 litres.,Engine,Neutral,the engine displacement is 15 litres,Engine: the engine displacement is 15 litres,1
+The car includes USB connectivity.,Infotainment,Neutral,the car includes usb connectivity,Infotainment: the car includes usb connectivity,1
+The mileage is very poor.,Mileage,Negative,the mileage is very poor,Mileage: the mileage is very poor,0
+The display is difficult to read.,Infotainment,Negative,the display is difficult to read,Infotainment: the display is difficult to read,0
+The motor delivers strong acceleration.,Engine,Positive,the motor delivers strong acceleration,Engine: the motor delivers strong acceleration,2
+The suspension provides a smooth ride.,Comfort,Positive,the suspension provides a smooth ride,Comfort: the suspension provides a smooth ride,2
+The car offers great value at this price.,Price,Positive,the car offers great value at this price,Price: the car offers great value at this price,2
+The car uses a petrol engine.,Engine,Neutral,the car uses a petrol engine,Engine: the car uses a petrol engine,1
+The safety technology needs improvement.,Safety,Negative,the safety technology needs improvement,Safety: the safety technology needs improvement,0
+The vehicle has several poor design choices.,Vehicle,Negative,the vehicle has several poor design choices,Vehicle: the vehicle has several poor design choices,0
+The car struggles during acceleration.,Engine,Negative,the car struggles during acceleration,Engine: the car struggles during acceleration,0
+The vehicle has a digital display.,Infotainment,Neutral,the vehicle has a digital display,Infotainment: the vehicle has a digital display,1
+The model is offered in multiple variants.,Vehicle,Neutral,the model is offered in multiple variants,Vehicle: the model is offered in multiple variants,1
+The car is overpriced for its features.,Price,Negative,the car is overpriced for its features,Price: the car is overpriced for its features,0
+The car supports smartphone connectivity.,Infotainment,Neutral,the car supports smartphone connectivity,Infotainment: the car supports smartphone connectivity,1
+The mileage drops significantly in traffic.,Mileage,Negative,the mileage drops significantly in traffic,Mileage: the mileage drops significantly in traffic,0
+The manufacturer lists maintenance costs.,Service,Neutral,the manufacturer lists maintenance costs,Service: the manufacturer lists maintenance costs,1
+The price is higher than expected.,Price,Negative,the price is higher than expected,Price: the price is higher than expected,0
+The price is attractive compared with competitors.,Price,Positive,the price is attractive compared with competitors,Price: the price is attractive compared with competitors,2
+The car has a standard interior layout.,Comfort,Neutral,the car has a standard interior layout,Comfort: the car has a standard interior layout,1
+The seats provide poor support.,Comfort,Negative,the seats provide poor support,Comfort: the seats provide poor support,0
+The model comes with a service warranty.,Service,Neutral,the model comes with a service warranty,Service: the model comes with a service warranty,1
+The braking performance is poor.,Safety,Negative,the braking performance is poor,Safety: the braking performance is poor,0
+Customer service was slow to respond.,Service,Negative,customer service was slow to respond,Service: customer service was slow to respond,0
+The car has standard safety equipment.,Safety,Neutral,the car has standard safety equipment,Safety: the car has standard safety equipment,1
+The model has a starting price of 10 lakh rupees.,Price,Neutral,the model has a starting price of 10 lakh rupees,Price: the model has a starting price of 10 lakh rupees,1
+The car comes with a typical vehicle body.,Vehicle,Neutral,the car comes with a typical vehicle body,Vehicle: the car comes with a typical vehicle body,1
+The vehicle has a battery warranty.,Battery,Neutral,the vehicle has a battery warranty,Battery: the vehicle has a battery warranty,1
+The cabin is uncomfortable on long journeys.,Comfort,Negative,the cabin is uncomfortable on long journeys,Comfort: the cabin is uncomfortable on long journeys,0
+The vehicle is worth the price.,Price,Positive,the vehicle is worth the price,Price: the vehicle is worth the price,2
+The car has a mileage rating of 18 kmpl.,Mileage,Neutral,the car has a mileage rating of 18 kmpl,Mileage: the car has a mileage rating of 18 kmpl,1
+The navigation system is unreliable.,Infotainment,Negative,the navigation system is unreliable,Infotainment: the navigation system is unreliable,0
+The car feels very safe to drive.,Safety,Positive,the car feels very safe to drive,Safety: the car feels very safe to drive,2
+The interior feels cramped.,Comfort,Negative,the interior feels cramped,Comfort: the interior feels cramped,0
+The service team was unhelpful.,Service,Negative,the service team was unhelpful,Service: the service team was unhelpful,0
+The car has a standard fuel economy rating.,Mileage,Neutral,the car has a standard fuel economy rating,Mileage: the car has a standard fuel economy rating,1
+The vehicle includes ABS and EBD.,Safety,Neutral,the vehicle includes abs and ebd,Safety: the vehicle includes abs and ebd,1
+The interior feels comfortable on long journeys.,Comfort,Positive,the interior feels comfortable on long journeys,Comfort: the interior feels comfortable on long journeys,2
+The vehicle includes Bluetooth connectivity.,Infotainment,Neutral,the vehicle includes bluetooth connectivity,Infotainment: the vehicle includes bluetooth connectivity,1
+The ride becomes uncomfortable on rough roads.,Comfort,Negative,the ride becomes uncomfortable on rough roads,Comfort: the ride becomes uncomfortable on rough roads,0
+The car requires regular maintenance.,Service,Neutral,the car requires regular maintenance,Service: the car requires regular maintenance,1
+The charging system works quickly.,Battery,Positive,the charging system works quickly,Battery: the charging system works quickly,2
+The asking price is excessive.,Price,Negative,the asking price is excessive,Price: the asking price is excessive,0
+The car gives good fuel economy.,Mileage,Positive,the car gives good fuel economy,Mileage: the car gives good fuel economy,2
+The repair service was completed quickly.,Service,Positive,the repair service was completed quickly,Service: the repair service was completed quickly,2
+The build quality is not impressive.,Vehicle,Negative,the build quality is not impressive,Vehicle: the build quality is not impressive,0
+The infotainment system feels outdated.,Infotainment,Negative,the infotainment system feels outdated,Infotainment: the infotainment system feels outdated,0
+The model comes with a standard audio system.,Infotainment,Neutral,the model comes with a standard audio system,Infotainment: the model comes with a standard audio system,1
+The vehicle has an authorized service center.,Service,Neutral,the vehicle has an authorized service center,Service: the vehicle has an authorized service center,1
+The ride is smooth over rough roads.,Comfort,Positive,the ride is smooth over rough roads,Comfort: the ride is smooth over rough roads,2
+The infotainment system is confusing.,Infotainment,Negative,the infotainment system is confusing,Infotainment: the infotainment system is confusing,0
+The vehicle displays its fuel economy.,Mileage,Neutral,the vehicle displays its fuel economy,Mileage: the vehicle displays its fuel economy,1
+The seats offer excellent support.,Comfort,Positive,the seats offer excellent support,Comfort: the seats offer excellent support,2
+The battery does not last long.,Battery,Negative,the battery does not last long,Battery: the battery does not last long,0
+The service experience was smooth.,Service,Positive,the service experience was smooth,Service: the service experience was smooth,2
+The car has six airbags.,Safety,Neutral,the car has six airbags,Safety: the car has six airbags,1
+Fuel efficiency is very good.,Mileage,Positive,fuel efficiency is very good,Mileage: fuel efficiency is very good,2
+The motor is noisy and lacks power.,Engine,Negative,the motor is noisy and lacks power,Engine: the motor is noisy and lacks power,0
+The car provides good value for money.,Price,Positive,the car provides good value for money,Price: the car provides good value for money,2
+The battery drains too quickly.,Battery,Negative,the battery drains too quickly,Battery: the battery drains too quickly,0
+The engine is powerful and smooth.,Engine,Positive,the engine is powerful and smooth,Engine: the engine is powerful and smooth,2
+The car has an automatic engine configuration.,Engine,Neutral,the car has an automatic engine configuration,Engine: the car has an automatic engine configuration,1
+The engine provides excellent performance.,Engine,Positive,the engine provides excellent performance,Engine: the engine provides excellent performance,2
+The engine has a standard configuration.,Engine,Neutral,the engine has a standard configuration,Engine: the engine has a standard configuration,1
+The navigation system works very well.,Infotainment,Positive,the navigation system works very well,Infotainment: the navigation system works very well,2
+The car provides poor protection.,Safety,Negative,the car provides poor protection,Safety: the car provides poor protection,0
+The rear seats have limited legroom.,Comfort,Negative,the rear seats have limited legroom,Comfort: the rear seats have limited legroom,0
+The car has a 60 kWh battery.,Battery,Neutral,the car has a 60 kwh battery,Battery: the car has a 60 kwh battery,1
+The vehicle includes parking sensors.,Safety,Neutral,the vehicle includes parking sensors,Safety: the vehicle includes parking sensors,1
+Engine response is quick and refined.,Engine,Positive,engine response is quick and refined,Engine: engine response is quick and refined,2
+The safety system is unreliable.,Safety,Negative,the safety system is unreliable,Safety: the safety system is unreliable,0
+The vehicle has a 45 litre fuel tank.,Mileage,Neutral,the vehicle has a 45 litre fuel tank,Mileage: the vehicle has a 45 litre fuel tank,1
+The engine lacks sufficient power.,Engine,Negative,the engine lacks sufficient power,Engine: the engine lacks sufficient power,0
+The body quality is disappointing.,Vehicle,Negative,the body quality is disappointing,Vehicle: the body quality is disappointing,0
+The battery range is excellent.,Battery,Positive,the battery range is excellent,Battery: the battery range is excellent,2
+The manufacturer provides a service schedule.,Service,Neutral,the manufacturer provides a service schedule,Service: the manufacturer provides a service schedule,1
+The service center was excellent.,Service,Positive,the service center was excellent,Service: the service center was excellent,2
+The exterior design does not look premium.,Vehicle,Negative,the exterior design does not look premium,Vehicle: the exterior design does not look premium,0
+The braking system works very well.,Safety,Positive,the braking system works very well,Safety: the braking system works very well,2
+The pricing is competitive.,Price,Positive,the pricing is competitive,Price: the pricing is competitive,2
+The seats are uncomfortable.,Comfort,Negative,the seats are uncomfortable,Comfort: the seats are uncomfortable,0
+I really like the build quality of this car.,Vehicle,Positive,i really like the build quality of this car,Vehicle: i really like the build quality of this car,2
+The battery range is disappointing.,Battery,Negative,the battery range is disappointing,Battery: the battery range is disappointing,0
+The car design looks outdated.,Vehicle,Negative,the car design looks outdated,Vehicle: the car design looks outdated,0
+The vehicle has five seats.,Comfort,Neutral,the vehicle has five seats,Comfort: the vehicle has five seats,1
+The charging system is frustratingly slow.,Battery,Negative,the charging system is frustratingly slow,Battery: the charging system is frustratingly slow,0
+The audio quality is poor.,Infotainment,Negative,the audio quality is poor,Infotainment: the audio quality is poor,0
+The speakers have poor sound quality.,Infotainment,Negative,the speakers have poor sound quality,Infotainment: the speakers have poor sound quality,0
+The engine performance is below expectations.,Engine,Negative,the engine performance is below expectations,Engine: the engine performance is below expectations,0
+The new model looks modern and attractive.,Vehicle,Positive,the new model looks modern and attractive,Vehicle: the new model looks modern and attractive,2
+The model has manual seat adjustment.,Comfort,Neutral,the model has manual seat adjustment,Comfort: the model has manual seat adjustment,1
+The vehicle performs efficiently in city traffic.,Mileage,Positive,the vehicle performs efficiently in city traffic,Mileage: the vehicle performs efficiently in city traffic,2
+The fuel consumption is low.,Mileage,Positive,the fuel consumption is low,Mileage: the fuel consumption is low,2
+The safety features are disappointing.,Safety,Negative,the safety features are disappointing,Safety: the safety features are disappointing,0
+The battery takes about six hours to charge.,Battery,Neutral,the battery takes about six hours to charge,Battery: the battery takes about six hours to charge,1
+The charging experience is disappointing.,Battery,Negative,the charging experience is disappointing,Battery: the charging experience is disappointing,0
+The pricing is disappointing.,Price,Negative,the pricing is disappointing,Price: the pricing is disappointing,0
+The motor performs smoothly at high speeds.,Engine,Positive,the motor performs smoothly at high speeds,Engine: the motor performs smoothly at high speeds,2
+The safety technology is impressive.,Safety,Positive,the safety technology is impressive,Safety: the safety technology is impressive,2
+The infotainment system has several menus.,Infotainment,Neutral,the infotainment system has several menus,Infotainment: the infotainment system has several menus,1
+The motor feels rough while driving.,Engine,Negative,the motor feels rough while driving,Engine: the motor feels rough while driving,0
+Engine performance is excellent.,Engine,Positive,engine performance is excellent,Engine: engine performance is excellent,2
+The model has a standard overall design.,Vehicle,Neutral,the model has a standard overall design,Vehicle: the model has a standard overall design,1
+The listed price excludes registration charges.,Price,Neutral,the listed price excludes registration charges,Price: the listed price excludes registration charges,1
+The model has a standard mileage figure.,Mileage,Neutral,the model has a standard mileage figure,Mileage: the model has a standard mileage figure,1
+Battery performance is below expectations.,Battery,Negative,battery performance is below expectations,Battery: battery performance is below expectations,0
+The car price depends on the selected variant.,Price,Neutral,the car price depends on the selected variant,Price: the car price depends on the selected variant,1
+The vehicle has several service centers.,Service,Neutral,the vehicle has several service centers,Service: the vehicle has several service centers,1
+The vehicle feels solid and well built.,Vehicle,Positive,the vehicle feels solid and well built,Vehicle: the vehicle feels solid and well built,2
+The model offers a standard safety package.,Safety,Neutral,the model offers a standard safety package,Safety: the model offers a standard safety package,1
+The battery charges efficiently.,Battery,Positive,the battery charges efficiently,Battery: the battery charges efficiently,2
+The dealer provided excellent support.,Service,Positive,the dealer provided excellent support,Service: the dealer provided excellent support,2

@@ -1,0 +1,217 @@
+review,aspect,sentiment
+The price is higher than expected.,Price,Negative
+The vehicle has a standard market price.,Price,Neutral
+The model includes adjustable front seats.,Comfort,Neutral
+The touchscreen is slow and unresponsive.,Infotainment,Negative
+The overall vehicle design is disappointing.,Vehicle,Negative
+The car provides poor protection.,Safety,Negative
+The speakers have poor sound quality.,Infotainment,Negative
+Fuel efficiency is very good.,Mileage,Positive
+The price is difficult to justify.,Price,Negative
+The car has a standard cabin layout.,Comfort,Neutral
+The repair service was poorly handled.,Service,Negative
+Engine response is quick and refined.,Engine,Positive
+The car includes USB connectivity.,Infotainment,Neutral
+The vehicle feels poorly built.,Vehicle,Negative
+The battery takes about six hours to charge.,Battery,Neutral
+The infotainment system is confusing.,Infotainment,Negative
+The display is bright and user friendly.,Infotainment,Positive
+The model has a standard overall design.,Vehicle,Neutral
+Maintenance took too long.,Service,Negative
+The vehicle supports fast charging.,Battery,Neutral
+The model has a navigation display.,Infotainment,Neutral
+The cabin includes front and rear seats.,Comfort,Neutral
+The vehicle performs efficiently in city traffic.,Mileage,Positive
+Engine performance is excellent.,Engine,Positive
+The safety features are disappointing.,Safety,Negative
+Maintenance service was quick and professional.,Service,Positive
+The vehicle has an authorized service center.,Service,Neutral
+The car has a conventional exterior design.,Vehicle,Neutral
+The engine displacement is 1.5 litres.,Engine,Neutral
+The car offers great value at this price.,Price,Positive
+The vehicle lacks important safety features.,Safety,Negative
+The battery charges efficiently.,Battery,Positive
+The car has six airbags.,Safety,Neutral
+The car is reasonably priced.,Price,Positive
+The seats offer excellent support.,Comfort,Positive
+The seats are uncomfortable.,Comfort,Negative
+The vehicle is highly fuel efficient.,Mileage,Positive
+The rear seats have limited legroom.,Comfort,Negative
+The car has standard safety equipment.,Safety,Neutral
+The braking system works very well.,Safety,Positive
+The safety features are excellent.,Safety,Positive
+The car has a touchscreen infotainment system.,Infotainment,Neutral
+The model comes with a rear camera.,Safety,Neutral
+The mileage depends on driving conditions.,Mileage,Neutral
+The vehicle has poor fuel economy.,Mileage,Negative
+The car has a standard fuel economy rating.,Mileage,Neutral
+The vehicle has five seats.,Comfort,Neutral
+The manufacturer lists several price options.,Price,Neutral
+The mileage drops significantly in traffic.,Mileage,Negative
+The model comes with a service warranty.,Service,Neutral
+The service team was unhelpful.,Service,Negative
+The motor feels rough while driving.,Engine,Negative
+The engine is powerful and smooth.,Engine,Positive
+The navigation system works very well.,Infotainment,Positive
+The seats are very comfortable.,Comfort,Positive
+The motor performs smoothly at high speeds.,Engine,Positive
+The car comes with a typical vehicle body.,Vehicle,Neutral
+The vehicle has a battery warranty.,Battery,Neutral
+The car has strong safety performance.,Safety,Positive
+Battery performance is below expectations.,Battery,Negative
+The model comes with a lithium-ion battery.,Battery,Neutral
+I really like the build quality of this car.,Vehicle,Positive
+The car has fabric seats.,Comfort,Neutral
+The battery range is disappointing.,Battery,Negative
+The airbags provide good safety.,Safety,Positive
+The service center was disappointing.,Service,Negative
+The car consumes too much fuel.,Mileage,Negative
+The battery capacity is 50 kWh.,Battery,Neutral
+The brakes feel weak.,Safety,Negative
+Phone connectivity is frustrating.,Infotainment,Negative
+The engine provides excellent performance.,Engine,Positive
+The car feels less refined than expected.,Vehicle,Negative
+The engine response is slow.,Engine,Negative
+The car has impressive engine power.,Engine,Positive
+The engine has a standard configuration.,Engine,Neutral
+The vehicle is available in three price variants.,Price,Neutral
+The safety technology is impressive.,Safety,Positive
+The dealer provided excellent support.,Service,Positive
+The battery provides impressive range.,Battery,Positive
+The vehicle costs too much.,Price,Negative
+The display is difficult to read.,Infotainment,Negative
+Mileage is better than expected.,Mileage,Positive
+The vehicle comes with a four-cylinder engine.,Engine,Neutral
+The seats provide poor support.,Comfort,Negative
+The fuel consumption is low.,Mileage,Positive
+The legroom is very comfortable.,Comfort,Positive
+The motor delivers strong acceleration.,Engine,Positive
+The car has a standard interior layout.,Comfort,Neutral
+The vehicle includes ABS and EBD.,Safety,Neutral
+The cabin is spacious and comfortable.,Comfort,Positive
+The new model looks modern and attractive.,Vehicle,Positive
+The car gives good fuel economy.,Mileage,Positive
+The model is offered with a diesel engine.,Engine,Neutral
+The system connects to my phone quickly.,Infotainment,Positive
+The car has electronic stability control.,Safety,Neutral
+The model has a standard mileage figure.,Mileage,Neutral
+Fuel consumption is unnecessarily high.,Mileage,Negative
+The service center was excellent.,Service,Positive
+The car struggles during acceleration.,Engine,Negative
+The suspension provides a smooth ride.,Comfort,Positive
+The charging system is frustratingly slow.,Battery,Negative
+The vehicle has a familiar design.,Vehicle,Neutral
+The model has manual seat adjustment.,Comfort,Neutral
+The vehicle includes several driver assistance features.,Safety,Neutral
+Engine performance is disappointing.,Engine,Negative
+The exterior design does not look premium.,Vehicle,Negative
+The model has a starting price of 10 lakh rupees.,Price,Neutral
+The audio quality is excellent.,Infotainment,Positive
+The exterior design makes the car look premium.,Vehicle,Positive
+The engine feels responsive during driving.,Engine,Positive
+Customer service was responsive.,Service,Positive
+The asking price is excessive.,Price,Negative
+The service experience was smooth.,Service,Positive
+The vehicle feels stable and refined on the road.,Vehicle,Positive
+The engine feels weak during acceleration.,Engine,Negative
+The car is overpriced for its features.,Price,Negative
+The service experience was frustrating.,Service,Negative
+The infotainment features are impressive.,Infotainment,Positive
+The dealer provided poor support.,Service,Negative
+The model offers a standard safety package.,Safety,Neutral
+The body quality is disappointing.,Vehicle,Negative
+The battery does not last long.,Battery,Negative
+The ride is smooth over rough roads.,Comfort,Positive
+The price offers excellent value.,Price,Positive
+The navigation system is unreliable.,Infotainment,Negative
+The car has a stylish exterior design.,Vehicle,Positive
+The vehicle is affordable for its features.,Price,Positive
+The car requires regular maintenance.,Service,Neutral
+The battery supports home charging.,Battery,Neutral
+The manufacturer lists maintenance costs.,Service,Neutral
+The car has a 60 kWh battery.,Battery,Neutral
+The vehicle uses a turbocharged engine.,Engine,Neutral
+The vehicle provides rear-seat headrests.,Comfort,Neutral
+The car uses a petrol engine.,Engine,Neutral
+The interior feels comfortable on long journeys.,Comfort,Positive
+The car uses a standard body structure.,Vehicle,Neutral
+The manufacturer provides a service schedule.,Service,Neutral
+Customer service was slow to respond.,Service,Negative
+Fuel efficiency is disappointing.,Mileage,Negative
+The engine lacks sufficient power.,Engine,Negative
+The infotainment system feels outdated.,Infotainment,Negative
+The car has an automatic engine configuration.,Engine,Neutral
+The manufacturer lists the mileage officially.,Mileage,Neutral
+The service interval is one year.,Service,Neutral
+The car is available with two engine options.,Engine,Neutral
+The service team was very helpful.,Service,Positive
+The vehicle is worth the price.,Price,Positive
+The car has a premium overall design.,Vehicle,Positive
+The braking performance is poor.,Safety,Negative
+Battery life is better than expected.,Battery,Positive
+The interior feels cramped.,Comfort,Negative
+The car provides good value for money.,Price,Positive
+The infotainment system is easy to use.,Infotainment,Positive
+The car is too expensive.,Price,Negative
+The battery lasts for a long time.,Battery,Positive
+The mileage is very poor.,Mileage,Negative
+The motor is noisy and lacks power.,Engine,Negative
+The vehicle has a practical and attractive body design.,Vehicle,Positive
+The safety technology needs improvement.,Safety,Negative
+The car uses petrol for fuel.,Mileage,Neutral
+Mileage is lower than expected.,Mileage,Negative
+The model comes with a standard audio system.,Infotainment,Neutral
+The pricing is competitive.,Price,Positive
+The vehicle displays its fuel economy.,Mileage,Neutral
+The car design looks outdated.,Vehicle,Negative
+The vehicle has several poor design choices.,Vehicle,Negative
+The electric range is poor.,Battery,Negative
+The vehicle includes Bluetooth connectivity.,Infotainment,Neutral
+The cabin is uncomfortable on long journeys.,Comfort,Negative
+The vehicle is available in several body styles.,Vehicle,Neutral
+The vehicle has several service centers.,Service,Neutral
+The mileage is excellent.,Mileage,Positive
+The infotainment system has several menus.,Infotainment,Neutral
+The ride becomes uncomfortable on rough roads.,Comfort,Negative
+The model is offered at different prices.,Price,Neutral
+The price is attractive compared with competitors.,Price,Positive
+The charging experience is disappointing.,Battery,Negative
+The electric range is excellent.,Battery,Positive
+The safety system is unreliable.,Safety,Negative
+Charging performance is very good.,Battery,Positive
+The speakers produce excellent sound.,Infotainment,Positive
+The car price depends on the selected variant.,Price,Neutral
+The touchscreen is responsive and clear.,Infotainment,Positive
+Charging takes far too long.,Battery,Negative
+The battery range is excellent.,Battery,Positive
+The car has a mileage rating of 18 kmpl.,Mileage,Neutral
+The model is offered in multiple variants.,Vehicle,Neutral
+The battery drains too quickly.,Battery,Negative
+The car is serviced every six months.,Service,Neutral
+The car is priced at 15 lakh rupees.,Price,Neutral
+The car supports smartphone connectivity.,Infotainment,Neutral
+The ride quality is poor.,Comfort,Negative
+The engine performance is below expectations.,Engine,Negative
+The workshop staff were rude.,Service,Negative
+The pricing is disappointing.,Price,Negative
+The vehicle feels solid and well built.,Vehicle,Positive
+The charging system works quickly.,Battery,Positive
+The workshop staff were helpful.,Service,Positive
+The suspension feels too stiff.,Comfort,Negative
+The repair service was completed quickly.,Service,Positive
+The car feels very safe to drive.,Safety,Positive
+The vehicle provides excellent protection.,Safety,Positive
+The vehicle includes parking sensors.,Safety,Neutral
+The car is not fuel efficient.,Mileage,Negative
+The vehicle does not offer good value.,Price,Negative
+The car delivers impressive mileage.,Mileage,Positive
+The ride quality is excellent.,Comfort,Positive
+The listed price excludes registration charges.,Price,Neutral
+The vehicle has a five-door body design.,Vehicle,Neutral
+The vehicle has a digital display.,Infotainment,Neutral
+The car displays the battery percentage.,Battery,Neutral
+The car does not feel very safe.,Safety,Negative
+The build quality is not impressive.,Vehicle,Negative
+The vehicle has a 45 litre fuel tank.,Mileage,Neutral
+The audio quality is poor.,Infotainment,Negative
+The braking response is reliable.,Safety,Positive

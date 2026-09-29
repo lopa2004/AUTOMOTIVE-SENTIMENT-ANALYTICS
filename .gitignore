@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+model/bert_automotive_sentiment/model.safetensors
+model/bert_automotive_sentiment/checkpoint-*/
+
+outputs/
+.vscode/
+Thumbs.db
+.DS_Store
